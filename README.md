@@ -48,7 +48,8 @@ Afterward, you should be good to go! Once the script is running, it will automat
 
 * Add script argument parameters, so that client/server details can be adapted as needed
 
-* Add an option to book any identified earlier date slot straight from Selenium - and then notify client of change to reservation (with an option to add the event to the client's calendar directly from the email)
+* Add an option to book any identified earlier date slot straight from Selenium - and then notify client of change to reservation 
+*(with an option to add the event to the client's calendar directly from the email)*
 
 * Make a more kawaii email template
 
