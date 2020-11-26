@@ -9,7 +9,7 @@ DVLA Appointment Notifier utalises Selenium to interact with Gov.uk's DVLA Drivi
 ## Usage
 To use the script, there's two things you need:
 1. You must have the client's Driving License No. & Existing Test Booking No.
-2. You must have an SMTP capable email address in order to utalise appointment notification
+2. You must have an SMTP capable email address in order to receive notifications for earlier appointments
 
 ❗**Please ensure never to leave any sensitive information present in Version Control!**❗
 
