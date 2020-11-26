@@ -1,6 +1,6 @@
 # DVLA Appointment Notifier
 
-DVLA Appointment Notifier utalises Selenium to interact with Gov.uk's DVLA Driving Test Portal in order to find and notify clients of earlier appointment times upon cancellation.
+DVLA Appointment Notifier utalises Selenium to interact with Gov.uk's DVLA Driving Test Portal in order to find and notify clients of earlier appointment times arrising from other student cancellations.
 
 ## Prerequisites
 * [Selenium](https://www.selenium.dev) - Browser Automation Framework
