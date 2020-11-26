@@ -11,7 +11,7 @@ To use the script, there's two things you need:
 1. You must have the client's Driving License No. & Existing Test Booking No.
 2. You must have an SMTP capable email address in order to receive notifications for earlier appointments
 
-❗**Please ensure never to leave any sensitive information present in Version Control!**❗
+❗ **Please ensure never to leave any sensitive information present in Version Control!** ❗
 
 To get started, at the top of the script make sure to replace all client placeholder values with appropriate substitutes
 
@@ -37,7 +37,7 @@ server_email = "*insert sender email where notification will be sent from"
 server_password = "*insert sender email password for above email*"
 server_smtp = "*insert sender email smtp address*" # e.g: Gmail = smtp.gmail.com
 ```
-❗**Again, please ensure not to include any sensitive information in Version Control!**❗
+❗ **Again, please ensure not to include any sensitive information in Version Control!** ❗
 
 Afterward, you should be good to go! Once the script is running, it will automatically check every ~16 minutes for any cancellations. The script will only run during 6AM - 11:30PM which is when the DVLA Driving Test Booking WebApp is accessible
 
