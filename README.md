@@ -7,7 +7,7 @@ DVLA Appointment Notifier utalises Selenium to interact with Gov.uk's DVLA Drivi
 * [Google Chrome](https://www.google.com/intl/en_uk/chrome/) - Browser of choice
 
 ## Usage
-To use the script, two requirements are needed:
+To use the script, there's two things you need:
 1. You must have the client's Driving License No. & Existing Test Booking No.
 2. You must have an SMTP capable email address in order to utalise appointment notification
 
